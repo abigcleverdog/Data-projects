@@ -3,7 +3,6 @@ Jupyter notebooks of projects
 
 | Project                                      | Data/Kaggle Kernel                          | Comments | 
 | -------------------------------------------- | -----------                                 | -------- |
-
 | [Linear Regression Implementation](https://github.com/abigcleverdog/Data-projects/blob/master/basic-ml-algorithm-implementation-linear-reg.ipynb) | [Kaggle](https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016) /[Kernel](https://www.kaggle.com/abigcleverdog/basic-ml-algorithm-implementation-linear-reg)     | linear-reg, univariable, cost function, gradient descent, normal equation, numpy operation  |
 | [Predict Future Sales](https://github.com/abigcleverdog/Data-projects/blob/master/predict-future-sales-ts-i.ipynb) | [Kaggle](https://www.kaggle.com/c/competitive-data-science-predict-future-sales) /[Kernel](https://www.kaggle.com/abigcleverdog/predict-future-sales-ts-i)     | EDA; time series analysis; AR, MA, ARMA, ARIMA, SARIMA; merge DataFrame  |
 | [Heart Disease UCI](https://github.com/abigcleverdog/Data-projects/blob/master/heart-disease-uci-prediction.ipynb) | [Kaggle](https://www.kaggle.com/ronitf/heart-disease-uci) /[Kernel](https://www.kaggle.com/abigcleverdog/heart-disease-uci-prediction/)     | EDA; model evaluation; KFold CV; TensorFlow/Keras; neutral network; deep learning  |
