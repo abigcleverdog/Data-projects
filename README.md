@@ -3,6 +3,7 @@ Jupyter notebooks of projects
 
 | Project                                      | Data/Kaggle Kernel                          | Comments | 
 | -------------------------------------------- | -----------                                 | -------- |
+| [Courses data EDA pub](https://github.com/abigcleverdog/Data-projects/blob/master/courses-data-eda-pub.ipynb) | [Currently private](https://www.kaggle.com/abigcleverdog/courses) /[Kernel](https://www.kaggle.com/abigcleverdog/courses-data-eda-pub)     | EDA, visualization, reusable functions  |
 | [Corona Virus EDA](https://github.com/abigcleverdog/Data-projects/blob/master/corona-virus-eda.ipynb) | [Kaggle](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset) /[Kernel](https://www.kaggle.com/abigcleverdog/corona-virus-eda)     | EDA, visualization, map  |
 | [FIFA 20 EDA I](https://github.com/abigcleverdog/Data-projects/blob/master/fifa-20-eda-i.ipynb) | [Kaggle](https://www.kaggle.com/stefanoleone992/fifa-20-complete-player-dataset) /[Kernel](https://www.kaggle.com/abigcleverdog/fifa-20-eda-i)     | EDA, visualization, geocode, map  |
 | [Netflix Movies and TV Shows EDA](https://github.com/abigcleverdog/Data-projects/blob/master/netflix-movies-and-tv-shows-eda.ipynb) | [Kaggle](https://www.kaggle.com/shivamb/netflix-shows) /[Kernel](https://www.kaggle.com/abigcleverdog/netflix-movies-and-tv-shows-eda)     | EDA, visualization  |
